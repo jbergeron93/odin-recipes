@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+.title {
+    background-color: black;
+    width: 100%;
+    font-size: 50px;
+    color: rgb(181, 240, 219);
+    font-family: 'Arial, Helvetica, sans-serif';
+    font-weight: bolder;
+    padding: 20px;
+}
+.unordered {
+    display: inline-block;
+    text-align: left;
+    font-family: 'Cambria, Cochin, Georgia, Times, Times New Roman, serif';
+    margin: 20px;
+}
+div {
+display: inline-block;
+margin: 30px;
+}
+
+img {
+    width: 150px;
+    height: auto;
+}
+li {
+    text-align: center;
+    display: block;
+    margin: 10px;
+    padding: 10px;
+}
